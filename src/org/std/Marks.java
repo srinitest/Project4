@@ -17,5 +17,12 @@ public static void main(String[] args) {
 	byte m5=95;
 	System.out.println("Mark 5:"+m5);
 	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	System.out.println("hi");
+	
 }
 }
